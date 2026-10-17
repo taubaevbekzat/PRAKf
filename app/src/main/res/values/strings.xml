@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Студенты</string>
+    <string name="main_title">Портал группы</string>
+    <string name="hint_name">Введите ваше имя</string>
+    <string name="btn_open">Открыть список</string>
+    <string name="btn_back">Назад</string>
+    <string name="title_list">Список студентов</string>
+    <string name="student_1">Асанов Айдос</string>
+    <string name="student_2">Серикұлы Ернар</string>
+    <string name="detail_title">Карточка студента</string>
+    <string name="label_grade">Оценка по предметам:</string>
+    <string name="grade_value">92 (Отлично)</string>
+    <string name="photo_description">Фото студента</string>
+</resources>
