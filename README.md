@@ -42,7 +42,7 @@
 
 ## Ссылки
 
-- **Скачать установочный APK:** [PRAKf v1.0 (Releases)](https://github.com/taubaevbekzat/PRAKf/releases/tag/v1.0)
+- **Скачать установочный APK: [PRAKf v1.0 (Релизы)]( https://github.com/taubaevbekzat/PRAKf/releases )
 - **Файл логов Logcat:** [logs.txt](https://github.com/taubaevbekzat/PRAKf/blob/master/logs.txt)
 
 ---
